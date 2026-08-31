@@ -33,7 +33,7 @@
 </details>
 
 <details>
-<summary><b>GitHub Apps</b> · <code>callmegreg-demo-org</code></summary>
+<summary><b>GitHub Apps</b></summary>
 
 | App | What it does | Stack |
 | --- | --- | --- |
