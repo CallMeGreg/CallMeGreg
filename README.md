@@ -14,9 +14,11 @@
 
 ## 🎯 What I focus on
 
-| 🔐 Advanced Security | 🤖 GitHub Copilot | ⚙️ Automation |
-| :-- | :-- | :-- |
-| Shift security left — secret scanning, code scanning, and supply chain security at enterprise scale. | Enablement and adoption that sticks, measured against real developer productivity. | `gh` CLI extensions, GitHub Actions, and GitHub Apps that eliminate manual toil. |
+<div align="center">
+
+<img src="assets/focus.svg" width="100%" alt="Advanced Security · GitHub Copilot · Automation" />
+
+</div>
 
 ## 🧰 Featured work
 
