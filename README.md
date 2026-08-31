@@ -23,12 +23,12 @@
 <details>
 <summary><b><code>gh</code> CLI extensions</b></summary>
 
-| Extension | What it does | ★ |
-| --- | --- | --- |
-| [**gh-language**](https://github.com/CallMeGreg/gh-language) | Analyze language usage across a GitHub Enterprise | 20 |
-| [**gh-secret-scanning**](https://github.com/CallMeGreg/gh-secret-scanning) | Triage & manage secret scanning alerts at scale | 7 |
-| [**gh-security-config**](https://github.com/CallMeGreg/gh-security-config) | Create & apply security configurations across an enterprise | 5 |
-| [**gh-custom-roles**](https://github.com/CallMeGreg/gh-custom-roles) | Define custom repository roles across an organization | |
+| Extension | What it does |
+| --- | --- |
+| [**gh-language**](https://github.com/CallMeGreg/gh-language) | Analyze language usage across a GitHub Enterprise |
+| [**gh-secret-scanning**](https://github.com/CallMeGreg/gh-secret-scanning) | Triage & manage secret scanning alerts at scale |
+| [**gh-security-config**](https://github.com/CallMeGreg/gh-security-config) | Create & apply security configurations across an enterprise |
+| [**gh-custom-roles**](https://github.com/CallMeGreg/gh-custom-roles) | Define custom repository roles across an organization |
 
 </details>
 
@@ -38,8 +38,6 @@
 | App | What it does | Stack |
 | --- | --- | --- |
 | [**alert-dismissal-automation**](https://github.com/callmegreg-demo-org/alert-dismissal-automation) | Automatically deny non-compliant alert dismissal requests | `JavaScript` |
-| [**probot-security-alerts**](https://github.com/callmegreg-demo-org/probot-security-alerts) | Monitor & enforce code scanning, Dependabot & secret scanning alert rules | `TypeScript` |
-| [**repo-ruleset-bot**](https://github.com/callmegreg-demo-org/repo-ruleset-bot) | Sync & enforce org-level repository rulesets across organizations | `Go` |
 
 </details>
 
