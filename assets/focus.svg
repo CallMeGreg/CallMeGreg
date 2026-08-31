@@ -1,7 +1,7 @@
-<svg viewBox="0 0 912 206" width="912" height="206" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" role="img" aria-label="What I focus on: Advanced Security, GitHub Copilot, Automation">
+<svg viewBox="0 0 920 206" width="920" height="206" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" role="img" aria-label="What I focus on: Advanced Security, GitHub Copilot, Automation">
   <defs>
     <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="2.6" result="b"/>
+      <feGaussianBlur stdDeviation="2.4" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
     <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
@@ -15,38 +15,35 @@
   </defs>
 
   <!-- Card 1 -->
-  <g>
-    <rect x="1" y="5" width="290" height="196" rx="15" fill="#0d1117" stroke="url(#edge)"/>
-    <rect x="1.5" y="5.5" width="289" height="3" rx="1.5" fill="#00E5FF" opacity=".8" filter="url(#glow)"/>
-    <rect x="16" y="34" width="3.5" height="138" rx="2" fill="url(#bar)" filter="url(#glow)"/>
-    <text x="34" y="54" font-size="11" letter-spacing="3" font-family="ui-monospace,Menlo,monospace" fill="#4b6076">01</text>
-    <text x="34" y="82" font-size="15.5" font-weight="700" letter-spacing="1.4" fill="#00E5FF">ADVANCED SECURITY</text>
-    <text x="34" y="116" font-size="12.5" fill="#8b949e">Secret scanning, code scanning,</text>
-    <text x="34" y="136" font-size="12.5" fill="#8b949e">and supply-chain security at</text>
-    <text x="34" y="156" font-size="12.5" fill="#8b949e">enterprise scale.</text>
+  <g transform="translate(10,0)">
+    <rect x="0" y="5" width="288" height="196" rx="15" fill="#0d1117" stroke="url(#edge)"/>
+    <rect x="0.5" y="5.5" width="287" height="3" rx="1.5" fill="#00E5FF" opacity=".8" filter="url(#glow)"/>
+    <rect x="16" y="58" width="3.5" height="100" rx="2" fill="url(#bar)" filter="url(#glow)"/>
+    <text x="32" y="80" font-size="16" font-weight="700" letter-spacing="1.4" fill="#00E5FF">ADVANCED SECURITY</text>
+    <text x="32" y="114" font-size="12.5" fill="#8b949e">Secret scanning, code scanning,</text>
+    <text x="32" y="134" font-size="12.5" fill="#8b949e">and supply-chain security at</text>
+    <text x="32" y="154" font-size="12.5" fill="#8b949e">enterprise scale.</text>
   </g>
 
   <!-- Card 2 -->
-  <g transform="translate(311,0)">
-    <rect x="1" y="5" width="290" height="196" rx="15" fill="#0d1117" stroke="url(#edge)"/>
-    <rect x="1.5" y="5.5" width="289" height="3" rx="1.5" fill="#00E5FF" opacity=".8" filter="url(#glow)"/>
-    <rect x="16" y="34" width="3.5" height="138" rx="2" fill="url(#bar)" filter="url(#glow)"/>
-    <text x="34" y="54" font-size="11" letter-spacing="3" font-family="ui-monospace,Menlo,monospace" fill="#4b6076">02</text>
-    <text x="34" y="82" font-size="15.5" font-weight="700" letter-spacing="1.4" fill="#00E5FF">GITHUB COPILOT</text>
-    <text x="34" y="116" font-size="12.5" fill="#8b949e">Enablement and adoption that</text>
-    <text x="34" y="136" font-size="12.5" fill="#8b949e">sticks — measured on real</text>
-    <text x="34" y="156" font-size="12.5" fill="#8b949e">developer productivity.</text>
+  <g transform="translate(316,0)">
+    <rect x="0" y="5" width="288" height="196" rx="15" fill="#0d1117" stroke="url(#edge)"/>
+    <rect x="0.5" y="5.5" width="287" height="3" rx="1.5" fill="#00E5FF" opacity=".8" filter="url(#glow)"/>
+    <rect x="16" y="58" width="3.5" height="100" rx="2" fill="url(#bar)" filter="url(#glow)"/>
+    <text x="32" y="80" font-size="16" font-weight="700" letter-spacing="1.4" fill="#00E5FF">GITHUB COPILOT</text>
+    <text x="32" y="114" font-size="12.5" fill="#8b949e">Enablement and adoption that</text>
+    <text x="32" y="134" font-size="12.5" fill="#8b949e">sticks — measured on real</text>
+    <text x="32" y="154" font-size="12.5" fill="#8b949e">developer productivity.</text>
   </g>
 
   <!-- Card 3 -->
   <g transform="translate(622,0)">
-    <rect x="1" y="5" width="290" height="196" rx="15" fill="#0d1117" stroke="url(#edge)"/>
-    <rect x="1.5" y="5.5" width="289" height="3" rx="1.5" fill="#00E5FF" opacity=".8" filter="url(#glow)"/>
-    <rect x="16" y="34" width="3.5" height="138" rx="2" fill="url(#bar)" filter="url(#glow)"/>
-    <text x="34" y="54" font-size="11" letter-spacing="3" font-family="ui-monospace,Menlo,monospace" fill="#4b6076">03</text>
-    <text x="34" y="82" font-size="15.5" font-weight="700" letter-spacing="1.4" fill="#00E5FF">AUTOMATION</text>
-    <text x="34" y="116" font-size="12.5" fill="#8b949e">gh CLI extensions, GitHub</text>
-    <text x="34" y="136" font-size="12.5" fill="#8b949e">Actions, and Apps that remove</text>
-    <text x="34" y="156" font-size="12.5" fill="#8b949e">manual toil.</text>
+    <rect x="0" y="5" width="288" height="196" rx="15" fill="#0d1117" stroke="url(#edge)"/>
+    <rect x="0.5" y="5.5" width="287" height="3" rx="1.5" fill="#00E5FF" opacity=".8" filter="url(#glow)"/>
+    <rect x="16" y="58" width="3.5" height="100" rx="2" fill="url(#bar)" filter="url(#glow)"/>
+    <text x="32" y="80" font-size="16" font-weight="700" letter-spacing="1.4" fill="#00E5FF">AUTOMATION</text>
+    <text x="32" y="114" font-size="12.5" fill="#8b949e">gh CLI extensions, GitHub</text>
+    <text x="32" y="134" font-size="12.5" fill="#8b949e">Actions, and Apps that remove</text>
+    <text x="32" y="154" font-size="12.5" fill="#8b949e">manual toil.</text>
   </g>
 </svg>
