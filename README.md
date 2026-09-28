@@ -37,10 +37,9 @@
 <details>
 <summary><b>GitHub Apps</b></summary>
 
-| App | What it does | Stack |
-| --- | --- | --- |
-| [**alert-dismissal-automation**](https://github.com/callmegreg-demo-org/alert-dismissal-automation) | Automatically deny non-compliant alert dismissal requests | `JavaScript` |
-| [**agentic-alert-triage**](https://github.com/CallMeGreg/agentic-alert-triage) | Review alert dismissal requests with policy checks & agentic review, routing the rest to AppSec | `JavaScript` |
+| App | What it does |
+| --- | --- |
+| [**agentic-alert-triage**](https://github.com/CallMeGreg/agentic-alert-triage) | Automate initial review of alert dismissal requests with policy checks & agentic review |
 
 </details>
 
